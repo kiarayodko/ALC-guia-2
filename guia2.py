@@ -73,3 +73,14 @@ def main():
     
 if __name__ == "__main__":
     main()
+
+####labo 03/09
+
+def matriz_B(n):
+  B = np.eye(n, k=-1) + 4*np.eye(n, k=0) + np.eye(n, k=1)
+  return B
+
+def matriz_A(n):
+    A = 1/n*np.eye(n, k=0)+ n**2*np.eye(n, k=n-1)+ np.eye(n, k=1-n)
+    return A
+print(matriz_A(5))
