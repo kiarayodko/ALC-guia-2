@@ -1,0 +1,13 @@
+$H=A(I-A)^{-1}$
+
+La suma de potencias se define como:
+$$ (I-A)^{-1}=I+A+A^{2}+A^{3}+...+A^{n}+...$$
+$\Rightarrow $ reemplazando en H,
+
+$$H=A(I-A)^{-1}=A(I+A+A^{2}+A^{3}+...+A^{n}+...)$$
+$$ \Rightarrow H=A+A^{2}+A^{3}+A^{4}+...+A^{n+1}+...$$
+Luego, $$H=(I-A)^{-1}-I$$
+
+
+El cluster violeta contiene 3 sectores, los cuales representan respectivamente a los sectores de la electricidad y el gas, servicios a empresas de todo tipo y otros servicios. 
+Estos sectores, pese a estar en un mismo cluster, se encuentran alejados, lo que indica que no se encuentran fuertemente relacionados entre si, aunque se puede establecer una relación entre ellos, ya que, por ejemplo, todos los sectores necesitan en mayor o menor medida de la electricidad. Estos sectores tienen una producción mayor a los del cluster celeste aunque no alcanzan los niveles del sector 1, que se encuentra señalado en amarillo en el gráfico y representa al sector agricultura y forestal, el cual da empleo a más del 18% de la población economicamente activa del país.
